@@ -21,7 +21,7 @@
 #include "sodium/crypto_secretbox.h"
 
 #define GENERAL_TIMEOUT 3000
-#define CMD_TIMEOUT 10000
+#define CMD_TIMEOUT 5000
 #define PAIRING_TIMEOUT 30000
 #define HEARTBEAT_TIMEOUT 30000
 
